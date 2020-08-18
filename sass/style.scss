@@ -1,0 +1,30 @@
+@import "_header";
+
+h1 {
+	color: darkgreen;
+}
+
+body {
+	font-size: 20px;
+	div {
+		font-size: 10px;
+	}
+}
+
+.block {
+	&_item {
+	}
+}
+.bbl {
+	&__item {
+	}
+}
+
+.block {
+}
+.block_item {
+}
+.bbl {
+}
+.bbl__item {
+}
